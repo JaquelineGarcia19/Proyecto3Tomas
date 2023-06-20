@@ -1,6 +1,6 @@
 footer{
-    background-color: #230C33;
-    color:#9984D4;
+    background-color: #2666af;
+    color:#ffffff;
     padding: 30px;
   }
   .container{
@@ -34,7 +34,7 @@ footer{
   }
   .contact-links a{
     display: inline-block;
-    color: #4cc0d4;
+    color: #feffff;
     font-size: 24px;
     margin: 0 10px;
     transition: all 0.3s ease;
